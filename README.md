@@ -36,9 +36,6 @@ Visit the live website: [Digital Doc](https://lingabarani.github.io/Digital-Doc/
 3. Browse health tips and explore consultation options.
 4. Learn about traditional medicine practices.
 
-## 📷 Screenshots
-
-*(Add screenshots here if available)*
 
 ## 📄 License
 
